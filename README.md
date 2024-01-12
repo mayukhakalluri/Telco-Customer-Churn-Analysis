@@ -21,16 +21,5 @@ Hyperparameter Tuning: Hyperparameter tuning is performed for the Random Forest 
 
 Model Comparison: Models are compared based on accuracy scores, training scores, best parameters, and confusion matrices.
 
-How to Use
-Download the dataset "WA_Fn-UseC_-Telco-Customer-Churn.csv" from the source and place it in the same directory as the Jupyter Notebook.
-
-Install the required libraries if you haven't already by running: !pip install pandas numpy matplotlib seaborn scikit-learn xgboost.
-
-Open the "Telecom Customer Churn.ipynb" notebook using Jupyter Notebook or Jupyter Lab.
-
-Run each cell sequentially to perform data analysis, preprocessing, modeling, and evaluation steps.
-
-Observe the results, including accuracy scores, confusion matrices, and comparisons between different models.
-
 Conclusion
 This notebook provides a comprehensive analysis of the telecom customer churn dataset, starting from data loading to model evaluation and comparison. By following the steps outlined in the notebook, you can gain insights into customer churn behavior and develop predictive models to identify potential churners.
